@@ -1,0 +1,68 @@
+#card{
+    width: 200px;
+    height: 200px;
+ box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.281);
+}
+#nome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid rgb(172, 166, 175);
+    margin-bottom: 30px;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+ul{
+   width: 200px;
+    height: 200px;
+}
+
+#Parte_1{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 100px;
+}
+
+section{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tarefa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid rgb(172, 166, 175);
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+#btn-tarefa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: transparent;
+    color: rgb(37, 40, 88);
+    border: 2px solid rgb(37, 40, 88);
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+ul{
+    padding: 100px;
+   height: fit-content;
+ box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.281);
+ margin-top: 40px;
+}
+li{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
